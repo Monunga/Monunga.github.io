@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Michael Onunga
 
 👋 Hi, I’m @Michael onunga
 
