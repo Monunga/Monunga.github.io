@@ -11,9 +11,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+👋 Hi, I’m @Michael onunga
+- 👀 I’m interested in Information system and Database management
+- 🌱 I’m currently learning software engineering
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach @Michaelonunga@gmail.com
+
+<!---
+Monunga/Monunga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 
 - Bulleted
 - List
